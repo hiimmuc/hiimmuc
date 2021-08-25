@@ -5,8 +5,7 @@
 - I'm currently a third-year student at [Hanoi University of Science and Technology](https://hust.edu.vn/) :man_student:
 - I'm currently working as a trainee at [Viettel Cyberspace](https://vtcc.vn/)
 - 💻 I’m currently learning about **AI**, **ML**, and **DL**. I'm interested in applying AI/ML/DL to robotics field
-- Love 🐼
-- Hobbies: Computer games 🎮, books 📚, running 🏃, ping pong 🏓
+- Hobbies: Computer games 🎮, books 📚, running 🏃, ping pong 🏓, watching 🐼
 
 ## Contact with me:
 
