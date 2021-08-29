@@ -17,11 +17,11 @@
 
 
 
-<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimmuc&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" alt="Abderrahmanee" /></p> 
+<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimmuc&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" alt="Himmuc" /></p> 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=hiimmuc&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale="> -->
 
 [![MuC's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiimmuc)](https://github.com/hiimmuc/github-readme-stats)
 
 <!-- ![MuC's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiimmuc&show_icons=true&theme=radical) -->
 
-![gif2](https://i.gifer.com/cD5.gif)
+<!-- ![gif2](https://i.pinimg.com/originals/50/25/73/502573b70c74a20de6c6d64c8c602880.gif) -->
