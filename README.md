@@ -1,4 +1,5 @@
 ### Hi there, I'm Phuong Nam - a.k.a [MuC!](https://github.com/hiimmuc) :D
+![gif](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
 
 ## I'm student, trainee, developer:
 
@@ -23,4 +24,4 @@
 
 <!-- ![MuC's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiimmuc&show_icons=true&theme=radical) -->
 
-<img height="120"  alt="Thanks for visiting my profile 🥰" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+![gif2](https://i.gifer.com/cD5.gif)
