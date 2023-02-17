@@ -3,8 +3,8 @@
 
 ## I'm student, trainee, developer:
 
-- I'm currently a third-year student at [Hanoi University of Science and Technology](https://hust.edu.vn/) :man_student:
-- I'm currently working as a trainee at [Viettel Cyberspace](https://vtcc.vn/)
+- I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a BSc in Control Engineering and  :man_student:
+- I'm currently working as a AI engineer at [Viettel Big Data Analytics Center - DAC](https://www.linkedin.com/company/dac-viettel/?fbclid=IwAR1krir8s6n7WMqy6MeXcwlmkRiwtNnjzRIaqHnHUm-iB7SOJtkcKFVr2Fk)
 - 💻 I’m currently learning about **AI**, **ML**, and **DL**. I'm interested in applying AI/ML/DL to real life applications
 - Hobbies: Computer games 🎮, books 📚, running 🏃, ping pong 🏓, watching 🐼
 
