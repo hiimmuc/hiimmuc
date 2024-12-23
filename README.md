@@ -5,8 +5,8 @@
 
 - I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a BSc in Control Engineering and  :man_student:
 - I've worked as an AI engineer at [Viettel Big Data Analytics Center - DAC](https://www.linkedin.com/company/dac-viettel/?fbclid=IwAR1krir8s6n7WMqy6MeXcwlmkRiwtNnjzRIaqHnHUm-iB7SOJtkcKFVr2Fk)
-- I am currently working at the [Nara Institute of Science and Technology](https://www.naist.jp/en/) in Japan
-- 💻 I’m currently learning about **AI**, **ML**, and **DL**. I'm interested in applying AI/ML/DL to real life applications
+- I am currently doing my master degree at the [Nara Institute of Science and Technology](https://www.naist.jp/en/) in Japan
+- 💻 I’m currently learning about **AI**, **ML**, and **DL**. I'm interested in applying AI/ML/DL to real-life applications
 - Hobbies: Computer games 🎮, books 📚, running 🏃, ping pong 🏓, watching 🐼
 
 ## Contact with me:
