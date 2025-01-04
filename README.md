@@ -1,5 +1,5 @@
 ### Hi there, I'm Phuong Nam - a.k.a [MuC!](https://github.com/hiimmuc) :D
-![jpg](![image]([https://github.com/user-attachments/assets/6917fe5f-be13-4269-93fe-7e853351924b](https://i.pinimg.com/736x/f8/13/31/f813318340dd594a594eadb3914f8e0e.jpg)))
+![jpg](![image](https://github.com/hiimmuc/hiimmuc/blob/master/panda.jpeg))
 
 ## I'm a student, trainee, developer:
 
