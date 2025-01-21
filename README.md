@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Phuong Nam Dang</h1>
 
-![image](https://github.com/hiimmuc/hiimmuc/blob/master/panda.jpeg)
+<p align="center">
+  <img src="https://github.com/hiimmuc/hiimmuc/blob/master/panda.jpeg" alt="image">
+</p>
 
 ## I'm a student, trainee, developer:
 
