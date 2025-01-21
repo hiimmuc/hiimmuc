@@ -10,7 +10,7 @@
 - I've worked as an AI engineer at [Viettel Big Data Analytics Center - DAC](https://www.linkedin.com/company/dac-viettel/?fbclid=IwAR1krir8s6n7WMqy6MeXcwlmkRiwtNnjzRIaqHnHUm-iB7SOJtkcKFVr2Fk)
 - I am currently doing my master's degree at the [Nara Institute of Science and Technology](https://www.naist.jp/en/), Japan
 - 📫 How to reach me **phgnam1811.vn@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/phgnam-dang/](https://www.linkedin.com/in/phgnam-dang/)
+- 📄 Know about my experiences [Here](https://www.linkedin.com/in/phgnam-dang/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
