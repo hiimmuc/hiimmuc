@@ -4,11 +4,11 @@
   <img src="https://github.com/hiimmuc/hiimmuc/blob/master/panda.jpeg" alt="image">
 </p>
 
-## I'm a student, trainee, developer:
+## I'm a panda:
 
-- I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a BSc in Control Engineering and Automation
-- I've worked as an AI engineer at [Viettel Big Data Analytics Center - DAC](https://www.linkedin.com/company/dac-viettel/?fbclid=IwAR1krir8s6n7WMqy6MeXcwlmkRiwtNnjzRIaqHnHUm-iB7SOJtkcKFVr2Fk)
-- I am currently doing my master's degree at the [Nara Institute of Science and Technology](https://www.naist.jp/en/), Japan
+- BSc in Control Engineering and Automation at [Hanoi University of Science and Technology](https://hust.edu.vn/)
+- 2+ yrs AI engineer at [Viettel Big Data Analytics Center - DAC](https://www.linkedin.com/company/dac-viettel/?fbclid=IwAR1krir8s6n7WMqy6MeXcwlmkRiwtNnjzRIaqHnHUm-iB7SOJtkcKFVr2Fk)
+- MSc in Human-Robotics Lab at the [Nara Institute of Science and Technology](https://www.naist.jp/en/), Japan
 - 📫 How to reach me **phgnam1811.vn@gmail.com**
 - 📄 Know about my experiences [Here](https://www.linkedin.com/in/phgnam-dang/)
 
