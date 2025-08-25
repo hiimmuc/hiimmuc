@@ -11,9 +11,11 @@
 
 ## 🎓 Education & Experience
 
-- 🤖 MSc in Human-Robotics Lab at Nara Institute of Science and Technology, Japan
-- 💼 2+ years as AI Engineer at Viettel Big Data Analytics Center (DAC)
-- 🎓 BSc in Control Engineering and Automation from Hanoi University of Science and Technology
+- 🤖 MSc in [Human-Robotics Lab](https://isw3.naist.jp/Research/ai-huro-en.html) at Nara Institute of Science and Technology, Japan
+- 💼 2+ years as an AI Engineer at [Viettel Big Data Analytics Center (DAC)](https://www.linkedin.com/company/dac-viettel/?originalSubdomain=vn)
+- 💼 AI Engineer at [VMO Holdings](https://vmogroup.com/)
+- 💼 AI Engineer at [VINMOTION](https://vinmotion.net/vi)
+- 🎓 BSc in Control Engineering and Automation from [Hanoi University of Science and Technology](https://hust.edu.vn/)
 
 ## 💻 Technical Skills
 <details>
@@ -81,7 +83,7 @@
   <br>
   <ul>
     <li> Extract embeddings from two onset voice audio files </li>
-    <li> Calculate cosine similarity between those embedding to determine whether they belong to the same person</li>
+    <li> Calculate cosine similarity between those embeddings to determine whether they belong to the same person</li>
   </ul>
   <p>
     <a href="https://github.com/hiimmuc/SpeakerVerification">View Project</a>
@@ -121,3 +123,4 @@ HackerRank: <a href="https://www.hackerrank.com/hi_im_muc"> hi_im_muc </a> </br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hiimmuc&label=Profile%20views&color=0e75b6&style=flat" alt="hiimmuc" />
 </p>
+
