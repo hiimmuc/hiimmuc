@@ -42,7 +42,7 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </p>
 </details>
-<details>
+<!-- <details>
   <summary><b>Development Tools & Platforms</b></summary>
   <br>
   <p align="left">
@@ -56,7 +56,7 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </p>
-</details>
+</details> -->
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -123,4 +123,5 @@ HackerRank: <a href="https://www.hackerrank.com/hi_im_muc"> hi_im_muc </a> </br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hiimmuc&label=Profile%20views&color=0e75b6&style=flat" alt="hiimmuc" />
 </p>
+
 
