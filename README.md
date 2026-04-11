@@ -59,21 +59,10 @@
 </details>
 
 ## 📊 GitHub Stats
-<p align="center">
-   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiimmuc&show_icons=true&theme=radical&layout=compact" alt="hiimmuc" />
-</p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hiimmuc&show_icons=true&theme=radical" alt="hiimmuc" />
-</p>
-
-<p align="center">
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiimmuc&theme=radical" alt="hiimmuc" />
-</p>
-
-<p align="center">
-  <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiimmuc&show_icons=true&theme=radical&layout=compact" alt="hiimmuc" />
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=hiimmuc&show_icons=true&theme=radical" alt="hiimmuc" />
+  <!-- <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiimmuc&show_icons=true&theme=radical&layout=compact" alt="hiimmuc" /> -->
+  <!-- <img width="33%" src="https://github-readme-stats.vercel.app/api?username=hiimmuc&show_icons=true&theme=radical" alt="hiimmuc" /> -->
   <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiimmuc&theme=radical" alt="hiimmuc" />
 </p>
 
