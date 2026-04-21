@@ -11,8 +11,8 @@
 
 ## 🎓 Education & Experience
 
-- 🤖 MSc in [Human-Robotics Lab](https://isw3.naist.jp/Research/ai-huro-en.html) at Nara Institute of Science and Technology, Japan
-- 🎓 BSc in Control Engineering and Automation from [Hanoi University of Science and Technology](https://hust.edu.vn/)
+- 🤖 M.Eng in [Human-Robotics Lab](https://isw3.naist.jp/Research/ai-huro-en.html) at Nara Institute of Science and Technology, Japan
+- 🎓 B.Sc in Control Engineering and Automation from [Hanoi University of Science and Technology](https://hust.edu.vn/)
 - 💼 Former AI Engineer at [Viettel Big Data Analytics Center (DAC)](https://www.linkedin.com/company/dac-viettel/?originalSubdomain=vn)
 - 💼 Former AI Engineer at [VMO Holdings](https://vmogroup.com/)
 - 💼 AI/Robotics Engineer at [VINMOTION](https://vinmotion.net/vi)
